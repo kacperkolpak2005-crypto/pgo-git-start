@@ -1,4 +1,4 @@
 # pgo-git-start
 Autor: Kacper Kołpak
 ## Opis
-Pierwszy projekt z Git
+Pierwszy projekt z Gita
